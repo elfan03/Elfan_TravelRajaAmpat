@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457464735020",
+    "project_id": "elfangabut",
+    "storage_bucket": "elfangabut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457464735020:android:985dd5794c4fbc05923889",
+        "android_client_info": {
+          "package_name": "com.example.elfangabut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457464735020-qmhscv8drjq3q7a61ks8vo6ukofbu0dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elfangabut",
+            "certificate_hash": "5fe97ed33236f815338fa8eea36b2b32eaab74e4"
+          }
+        },
+        {
+          "client_id": "457464735020-t74gbcv3flia4d9657crgfqruvclg32g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCENsWfvr4btqmhLBaOYxLd98WaHkjXiCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457464735020-t74gbcv3flia4d9657crgfqruvclg32g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
